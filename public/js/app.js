@@ -1,6 +1,3 @@
-console.log('Akash sharma')
-
-
 
 
 const weatherform=document.querySelector('form')
